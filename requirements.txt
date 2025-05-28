@@ -1,1 +1,5 @@
-pip install streamlit ultralytics pillow numpy matplotlib
+streamlit
+ultralytics
+pillow
+numpy
+matplotlib
